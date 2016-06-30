@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_material_dark">#fdf6e3</color>
+    <color name="primary_text_default_material_dark">#268bd2</color>
+    <color name="primary_text_default_solarized_dark">#268bd2</color>
+    <color name="background_solarized_light">#eee8d5</color>
+    <color name="primary_dark_material_light">#839496</color>
+    <color name="accent_material_light">#2aa198</color>
+</resources>

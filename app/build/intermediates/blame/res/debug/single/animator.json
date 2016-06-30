@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/student/AndroidStudioProjects/SecretCalculator/app/build/intermediates/res/merged/debug/animator/flight_left_in.xml",
+        "source": "/home/student/AndroidStudioProjects/SecretCalculator/app/src/main/res/animator/flight_left_in.xml"
+    },
+    {
+        "merged": "/home/student/AndroidStudioProjects/SecretCalculator/app/build/intermediates/res/merged/debug/animator/flight_right_out.xml",
+        "source": "/home/student/AndroidStudioProjects/SecretCalculator/app/src/main/res/animator/flight_right_out.xml"
+    }
+]

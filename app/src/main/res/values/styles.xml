@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Platform.AppCompat.SolarizedLight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/blue</item>
+    </style>
+
+    <style name="Theme.Platform.AppCompat.SolarizedLight.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="android:colorBackground">@color/base2</item>
+        <item name="android:textColorPrimary">@color/base01</item>
+        <item name="colorPrimary">@color/base1</item>
+        <item name="colorPrimaryDark">@color/base00</item>
+        <item name="colorAccent">@color/blue</item>
+    </style>
+
+</resources>

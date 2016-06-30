@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Platform.AppCompat.SolarizedLight.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorBackground">@color/base2</item>
+        <item name="android:textColorPrimary">@color/base01</item>
+        <item name="colorPrimary">@color/base1</item>
+        <item name="colorPrimaryDark">@color/base00</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:statusBarColor">@color/base0</item>
+        <item name="colorAccent">@color/blue</item>
+    </style>
+</resources>

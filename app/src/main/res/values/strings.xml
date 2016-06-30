@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Knurld Constants Start-->
+
+    <string-array name="vocabulary">
+        <item>Diamond</item>
+        <item>Circle</item>
+        <item>Oval</item>
+    </string-array>
+    <string name="host">https://api.knurld.io/</string>
+    <string name="api_version">v1</string>
+
+
+    <string name="client_id">AFlAtv6YKkCxTdpSdD5j0swIWEMtACI9</string>
+    <string name="client_secret">O0mx0sGhbpB7CjH5</string>
+    <!-- Do not put Bearer: in developer id-->
+    <string name="developer_id">eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1MDQ4MTY5MDUsInJvbGUiOiJhZG1pbiIsImlkIjoiZWNkMTAwM2YzODJlNWEzZjU0NGQyZjFkY2YwZDk3NDQiLCJ0ZW5hbnQiOiJ0ZW5hbnRfbXJwdGN4M25uaTJob3p6c21ydGc0NnRibmJ2dGttM2NuNXpoZzZkZmduc2hhM3J1cGJ0d282bGoiLCJuYW1lIjoiYWRtaW4ifQ.q7qmZK3voTP1zLUADAX3XaqjSziGQkXqXNRACz6wmv4Y3_My51bfN0jGZxdlE8O-qYhCjQ3M59jviG9g7wX7SQ</string>
+    <string name="dropbox_access_token">cd1t04cadJQAAAAAAAAALwKrdL2iMwX3gtDPzCtyi7-oSFWQcTr7I8nnJJKJGjnr</string>
+    <string name="app_model">ed101c867904071e9e2f98d91f698a5f</string>
+
+    <!-- Knurld Constants End -->
+
+    <string name="app_name">Secret Calculator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
